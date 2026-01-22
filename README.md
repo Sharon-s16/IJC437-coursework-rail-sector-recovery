@@ -53,7 +53,7 @@ All outputs are automatically saved to the `output/` folder.
 
 4. Run the analysis script:
 
-          source("scripts/ijc437_rail_analysis.R")
+          source("IJC437-coursework-rail-sector-recovery.R")
 
 
 All figures and tables will be generated automatically.
